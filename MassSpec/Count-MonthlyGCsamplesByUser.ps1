@@ -3,7 +3,7 @@
 # Compatible with PowerShell 2.0
 #
 # Usage:
-#   .\Count-MonthlySamplesPerUser.ps1 "C:\Path\To\Root" "2026-09"
+#   .\Count-MonthlyGCsamplesByUser.ps1 "C:\Path\To\Root" "2026-09"
 #   (if no path or month is given, it will prompt you to enter them)
 
 param(
