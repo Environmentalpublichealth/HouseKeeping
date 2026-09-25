@@ -3,7 +3,7 @@
 # Compatible with PowerShell 2.0
 #
 # Usage:
-#   .\Count-BatchesAndSamplesByMonth.ps1 "C:\Path\To\User"
+#   .\Count-User_BatchesAndSamplesPerMonth.ps1 "C:\Path\To\User"
 #   (if no path is given, it will prompt you to enter one)
 
 param(
