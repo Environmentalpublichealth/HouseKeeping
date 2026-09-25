@@ -4,7 +4,7 @@
 # Compatible with PowerShell 2.0
 #
 # Usage:
-#   .\Count-BatchesAndSamplesByUser.ps1 "C:\Path\To\Root" "2026-09"
+#   .\Count-MonthlyBatchesAndSamplesByUser.ps1 "C:\Path\To\Root" "2026-09"
 #   (if no path or month is given, it will prompt you to enter them)
 
 param(
